@@ -1,0 +1,34 @@
+- We used the free sprite sheet from: http://opengameart.org/content/wasteland-tileset
+Thanks to mauriku for his awesome work.
+
+- Sounds from:
+http://opengameart.org/content/fairy-tail
+ou
+http://opengameart.org/content/fairy-spring
+ou
+http://opengameart.org/content/forest
+(ver qual escolhi no fim)
+
+- Sprites Cute Cloud:
+https://commons.wikimedia.org/wiki/File:Clouds_Cute_for_CSS_sprites.svg
+
+-Rain sound:
+http://opengameart.org/content/darkrainynight-ambience
+
+- Som SFX bolhas:
+http://opengameart.org/content/bubble-pop
+
+- Coin plin:
+http://opengameart.org/content/picked-coin-echo
+
+- Shinny plim sound:
+http://opengameart.org/content/completion-sound
+
+- Aplausos:
+http://opengameart.org/content/applause
+
+- Som de vitória:
+http://opengameart.org/content/level-finish-fanfares
+
+- Vários (3: kids cheering, cheering-soundbibl.. e Ta Da-SoundBibl...)_
+http://soundbible.com/tags-winning.html
