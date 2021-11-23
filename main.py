@@ -26,7 +26,7 @@ window = pyglet.window.Window(W_width, W_height,caption = 'Test', resizable=True
 #window.set_location(window.screen.width/2 - window.width/2, window.screen.height/2 - window.height/2)
 """
 
-FPS = pyglet.clock.ClockDisplay()
+#FPS = pyglet.clock.ClockDisplay()
 
 MAIN_BATCH = pyglet.graphics.Batch()
 
@@ -73,6 +73,7 @@ def play_sound(filename, loop=False, volume=1):
     sound = pyglet.resource.media(filename , streaming=False)
     if loop == True:
         looper = pyglet.media.SourceGroup(sound.audio_format, None)
+        #looper = pyglet.media.SourceGroup()
         looper.loop = True
         looper.queue(sound)
         player.queue(looper)
@@ -363,7 +364,7 @@ class MainWindow(pyglet.window.Window):
                 for flower in self.flowers:
                     flower.delete()
                 del self.flowers[:]
-                print self.flowers
+                print(self.flowers)
                 for seed in self.seeds_current:
                     seed.delete()
                 del self.seeds_current[:]
@@ -522,7 +523,7 @@ class MainWindow(pyglet.window.Window):
     def on_draw(self):
         self.clear()
         MAIN_BATCH.draw()
-        FPS.draw()
+        #FPS.draw()
         #Set window background color rgba (note: in gl is in scale 0 to 1, inestead of 0 to 255; that is why I devide the rgb values by 255, so we get a floated value in the 0 to 1 scale
         pyglet.gl.glClearColor(241.0/255, 246.0/255, 248.0/255, 1)
         
