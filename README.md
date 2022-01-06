@@ -1,6 +1,11 @@
 # Videogame - Raining Cloud and Parallax effect #
+(Python + Pyglet/OpenGL)
 
-Earlier prototype of this research project: https://bitbucket.org/Paulo-Jorge/test_grammar_patterns
+Video preview: https://youtu.be/G-BcicTH_MA
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/G-BcicTH_MA/0.jpg)](http://www.youtube.com/watch?v=G-BcicTH_MA "Raining Cloud")
+
+Earlier prototype of this research project: https://github.com/Paulo-Jorge-PM/grammar-patterns
 
 Alternative version, more game oriented.
 
