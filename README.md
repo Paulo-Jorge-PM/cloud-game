@@ -9,7 +9,7 @@ Earlier prototype of this research project: https://github.com/Paulo-Jorge-PM/gr
 
 Alternative version, more game oriented.
 
-To run execute the file "main.py", and you need to have Python 2.7 installed and a version of Pyglet (just do "pip install pyglet" in the command line to get it). 
+To run execute the file "main.py", and you need to have Python 2.7 installed and a version of Pyglet (just do "pip install pyglet" in the command line to get it; note: this project is old and world moved on to Python 3: currently Python 2 pip repo is discontinued, so installing it may not work, for that reason a pyglet directory lib is included). 
 
 ## Contacts:
 My Homepage: [www.paulojorgepm.net](http://www.paulojorgepm.net)
